@@ -1,0 +1,9 @@
+1. System inventory-app
+2. GitHub as public for inventory-app
+3. Should install Composer php, posgreSql, Laravel, GitHub.
+
+
+Planning on Friday, 1 April 2022
+1. Flow
+2. DB design
+3. Authorization (Login, Register)
